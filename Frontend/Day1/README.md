@@ -1,20 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Online Customized Gift Portal
 
-Currently, two official plugins are available:
+## Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+An online platform for creating and purchasing personalized gifts for various occasions.
 
+## Project Description
 
+The Online Customized Gift Portal is designed to provide users with a seamless experience in creating and buying personalized gifts. Whether it's birthdays, anniversaries, or special events, this portal aims to offer a wide range of options for unique and thoughtful gifts.
 
+## Project Highlights
 
+### Day 1
 
-Name: Ramkarthik G
-Email: 727722euit517@skcet.ac.in
-Project Name: Online Customized Gift Portal
-Project Description: An online customized gift portal is a platform that allows users to create and purchase personalized gifts for various occasions.
-Day 1: - Created React template using Vite library.
-    - Created project structure.
-    -Created Helloworld component using vite.
+- **Project Initialization**
+  - Created a React template using the Vite library.
+  - Established the initial project structure.
+
+- **Component Creation**
+  - Implemented a basic "Hello World" component using Vite.
+
+## Author
+
+- **Name:** Ramkarthik G
+- **Email:** 727722euit517@skcet.ac.in
+
+## Getting Started
+
+Follow the steps below to set up and run the project locally:
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies: `npm install`.
+4. Start the development server: `npm run dev`.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
