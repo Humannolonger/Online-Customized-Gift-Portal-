@@ -1,0 +1,41 @@
+/* Dashboard.css */
+
+.dashboard {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 15%;
+    height: 100vh;
+    background-color: whitesmoke;
+    color: #000000;
+    padding: 20px;
+  }
+  .main-right{
+    width: 85%;
+    height: 100vh;
+  }
+  
+  .sidebar h2 {
+    margin-bottom: 20px;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
