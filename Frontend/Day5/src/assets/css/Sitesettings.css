@@ -1,0 +1,25 @@
+.site-settings-entire{
+    height: auto;
+}
+.sitesetting-aboutus textarea,.sitesetting-contactus textarea{
+    resize: none;
+    height: 78vh;
+    width: 85%;
+    font-size: medium;
+}
+.sitesetting-btn1{
+    height: 7vh;
+    width: 6%;
+    background-color: whitesmoke;
+    
+    color: black;
+}
+.sitesetting-btn2{
+    height: 7vh;
+    width: 12%;
+    background-color:whitesmoke;
+    color: black;
+}
+.site-settings-contents{
+    padding-left: 7%;
+}
