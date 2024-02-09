@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "clean": "^4.0.2",
+    "install": "^0.13.0"
+  }
+}
